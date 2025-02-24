@@ -3,7 +3,7 @@ layout: default
 title: "Study IB Math"
 ---
 
-# Math Study Hub
+# Welcome!
 
 Welcome to **Study IB Math**, your go-to resource for studying for the IB Math AA Exam. 
 
